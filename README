@@ -1,3 +1,7 @@
 This project is based on a Basic OpenAL for iOS tutorial.
 
 This code is not suitable for production. Feel free to use it, but it will probably cause more harm than good (harm as in your iOS app will be bad, not harm as in this code will hurt your computer).
+
+You can read the accompanying tutorial at:
+
+http://ohno789.blogspot.com.au/2013/08/playing-audio-samples-using-openal-on.html
